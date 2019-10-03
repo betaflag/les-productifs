@@ -1,0 +1,45 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Les Productifs
+email: bonjour@lesproductifs.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Un podcast sur la gestion et la création de produits
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://lesproductifs.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+podcast_url: https://lesproductifs.com
+podcast_album_art: /assets/productifs.png
+podcast_title: Les Productifs
+podcast_owner: Benoit Des Ligneris, Nicolas Lupien
+podcast_email: bonjour@lesproductifs.com
+podcast_category: Business
+podcast_subcategory_one: Entrepreneurship
+podcast_subcategory_two: Management
+podcast_explicit: "no"
+podcast_author: Benoit Des Ligneris, Nicolas Lupien
+podcast_description: Un podcast sur la création et la gestion de produits technologiques
+podcast_summary: Benoit Des Ligneris et Nicolas Lupien explorent la fabrication de produits autour d'eux ainsi que dans leurs deux contextes très differents d'une grande entreprise et d'une jeune startup
+podcast_subtitle: Discussions sur la création et gestion de produits
