@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Les Productifs
+title: 🚀 Les Productifs
 email: bonjour@lesproductifs.com
 description: >- # this means to ignore newlines until "baseurl:"
   Un podcast sur la gestion et la création de produits
