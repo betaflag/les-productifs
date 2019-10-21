@@ -3,16 +3,18 @@ layout: post
 title: "Épisode 1 - Les Releases"
 date: 2019-10-03 15:03:05 -0400
 categories: podcast
-podcast_link: http://example.com/podcast/1
-podcast_file_size: 13.7 MB
-podcast_duration: "14:02"
-podcast_length: 13654375
+podcast_link: https://les-productifs.s3.ca-central-1.amazonaws.com/01-Les-Releases.mp3
+podcast_file_size: 102.5 MB
+podcast_duration: "1:11:13"
+podcast_length: 102,544,950
 summary: >-
   Discussion sur le lancement: le O-Train d'Ottawa, lancement d'une nouvelle plateforme chez Shopify et le lancement d'une nouvelle startup incoming.chat
 excerpt: Exploration des lancements de produits
 ---
 
 Discussion sur le lancement: le O-Train d'Ottawa, lancement d'une nouvelle plateforme chez Shopify et le lancement d'une nouvelle startup incoming.chat
+
+Téléchargez le [mp3](https://les-productifs.s3.ca-central-1.amazonaws.com/01-Les-Releases.mp3)
 
 Contenu:
   - Présentation de Shopify et incoming.chat
