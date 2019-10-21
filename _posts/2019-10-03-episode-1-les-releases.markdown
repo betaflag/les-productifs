@@ -9,7 +9,7 @@ podcast_duration: "1:11:13"
 podcast_length: 102,544,950
 summary: >-
   Discussion sur le lancement: le O-Train d'Ottawa, lancement d'une nouvelle plateforme chez Shopify et le lancement d'une nouvelle startup incoming.chat
-excerpt: Exploration des lancements de produits
+excerpt: Discussion sur le lancement de produits autour de nous et en entreprise
 ---
 
 Discussion sur le lancement: le O-Train d'Ottawa, lancement d'une nouvelle plateforme chez Shopify et le lancement d'une nouvelle startup incoming.chat
