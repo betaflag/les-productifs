@@ -23,7 +23,7 @@ Contenu:
   - Le lancement du O-Train
   - Le lancement d'une nouvelle plateforme chez Shopify
   - Le lancement d'un nouveau produit chez incoming.chat
-  - Mot de lafin
+  - Mot de la fin
   
 Livres mentionnés:
   - Quand la conscience s'éveille, Anthony De Mello
