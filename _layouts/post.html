@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+<article
+  class="post h-entry"
+  itemscope
+  itemtype="http://schema.org/BlogPosting"
+>
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">
+      {{ page.title | escape }}
+    </h1>
+    <p class="post-meta">
+      <time
+        class="dt-published"
+        datetime="{{ page.date | date_to_xmlschema }}"
+        itemprop="datePublished"
+      >
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y"
+        -%}
+        {{ page.date | date: date_format }}
+      </time>
+      {%- if page.author -%} •
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person"
+        ><span class="p-author h-card" itemprop="name">{{
+          page.author | escape
+        }}</span></span
+      >
+      {%- endif -%}
+    </p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  <form
+    action="https://docs.google.com/forms/d/e/1FAIpQLSfO9kl6k4pijPP5GAMTKycifwD_VsCo8C7nOPc-SskffHJvzA/viewform?usp=sf_link"
+  >
+    <button type="submit" style="font-size: 16px; margin: 10px 0">
+      Partagez vos commentaires
+    </button>
+  </form>
+
+  <div>
+    <small>
+      Music from <a href="https://filmmusic.io">https://filmmusic.io</a> "Feelin
+      Good" by <a href="https://incompetech.com">Kevin MacLeod</a> License:<a
+        href="http://creativecommons.org/licenses/by/4.0/"
+        >CC BY</a
+      >
+    </small>
+  </div>
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>

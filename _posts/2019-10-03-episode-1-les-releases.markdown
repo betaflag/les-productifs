@@ -17,19 +17,17 @@ Discussion sur le lancement: le O-Train d'Ottawa, lancement d'une nouvelle plate
 Téléchargez le [mp3](https://les-productifs.s3.ca-central-1.amazonaws.com/01-Les-Releases.mp3)
 
 Contenu:
-  - Présentation de Shopify et incoming.chat
-  - Club de lecture: 
-  - L'apprentissage de la semaine
-  - Le lancement du O-Train
-  - Le lancement d'une nouvelle plateforme chez Shopify
-  - Le lancement d'un nouveau produit chez incoming.chat
-  - Mot de la fin
-  
-Livres mentionnés:
-  - Quand la conscience s'éveille, Anthony De Mello
-  - 10% Happier Revised Edition: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works, Dan Harris
-  - INSPIRED: How to Create Tech Products Customers Love, Marty Cagan
 
-Music from https://filmmusic.io
-"Feelin Good" by [Kevin MacLeod](https://incompetech.com)
-License: [CC BY](http://creativecommons.org/licenses/by/4.0/)
+- Présentation de Shopify et incoming.chat
+- Club de lecture:
+- L'apprentissage de la semaine
+- Le lancement du O-Train
+- Le lancement d'une nouvelle plateforme chez Shopify
+- Le lancement d'un nouveau produit chez incoming.chat
+- Mot de la fin
+
+Livres mentionnés:
+
+- Quand la conscience s'éveille, Anthony De Mello
+- 10% Happier Revised Edition: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works, Dan Harris
+- INSPIRED: How to Create Tech Products Customers Love, Marty Cagan
