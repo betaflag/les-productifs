@@ -14,6 +14,8 @@ excerpt: Discussion sur le lancement de produits autour de nous et en entreprise
 
 Discussion sur le lancement: le O-Train d'Ottawa, lancement d'une nouvelle plateforme chez Shopify et le lancement d'une nouvelle startup incoming.chat
 
+<iframe src="https://open.spotify.com/embed-podcast/show/04hMgFYhG7m9mpNmV6lq4v" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 Téléchargez le [mp3](https://les-productifs.s3.ca-central-1.amazonaws.com/01-Les-Releases.mp3)
 
 Contenu:
