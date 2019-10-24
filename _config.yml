@@ -21,7 +21,7 @@
 title: 🚀 Les Productifs
 email: bonjour@lesproductifs.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Un podcast sur la gestion et la création de produits
+  Un podcast en longueur sur la gestion et la création de produits
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lesproductifs.com" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -40,6 +40,6 @@ podcast_subcategory_one: Entrepreneurship
 podcast_subcategory_two: Management
 podcast_explicit: "no"
 podcast_author: Benoit Des Ligneris, Nicolas Lupien
-podcast_description: Un podcast sur la création et la gestion de produits technologiques
+podcast_description: Un podcast en longueur sur la création et la gestion de produits technologiques
 podcast_summary: Benoit Des Ligneris et Nicolas Lupien explorent la fabrication de produits autour d'eux ainsi que dans leurs deux contextes très differents d'une grande entreprise et d'une jeune startup
 podcast_subtitle: Discussions sur la création et gestion de produits
