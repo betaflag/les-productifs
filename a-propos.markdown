@@ -4,14 +4,10 @@ title: À Propos
 permalink: /a-propos/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<div style="text-align: center; margin: 60px 0 40px">
+  <img src="/apropos.jpg" alt="Benoit et Nicolas en vélo" style="max-width: 400px;" >
+</div>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<p>Benoit et Nicolas ont fait connaissance en 2013 lorsque leur passion commune pour la technologie et l'entrepreneuriât entâmat la première des innombrables discussions qu'ils ont eut sur ces sujets.</p>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-[jekyll-organization]: https://github.com/jekyll
+<p>Ayant travaillé sur plusieurs projets professionnels commun, dont la plateforme de commerce en ligne Shopify à Ottawa et une une jeune entreprise dans la domaine vinicole en Australie, ils font maitnenant carrière dans deux entreprises technologiques différentes. La première comporte plus de 4000 employés et un possède chiffre d'affaire de plus d'un milliard de dollars et la deuxième n'a encore aucun employé mais réve de faire un jour de faire un tel chiffre d'affaire.</p>
