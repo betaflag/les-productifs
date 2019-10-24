@@ -7,8 +7,8 @@ podcast_link: https://les-productifs.s3.ca-central-1.amazonaws.com/episode-2.mp3
 podcast_file_size: 118.1 MB
 podcast_duration: "1:18:04"
 podcast_length: 112424251
-summary: Le cerveau de Bill, devenir power user de iPad, l'entraînement à la course à pied et les cartes routières
-excerpt: Le cerveau de Bill, devenir power user de iPad, l'entraînement à la course à pied et les cartes routières
+summary: Le cerveau de Bill, devenir power user de iPad, l'entraînement à la course à pied et les cartes routières.
+excerpt: Le cerveau de Bill, devenir power user de iPad, l'entraînement à la course à pied et les cartes routières.
 ---
 
 Le cerveau de Bill, devenir power user de iPad, l'entraînement à la course à pied et les cartes routières.

@@ -7,12 +7,11 @@ podcast_link: https://les-productifs.s3.ca-central-1.amazonaws.com/episode-1.mp3
 podcast_file_size: 102.5 MB
 podcast_duration: "1:11:13"
 podcast_length: 102,544,950
-summary: >-
-  Discussion sur le lancement: le O-Train d'Ottawa, lancement d'une nouvelle plateforme chez Shopify et le lancement d'une nouvelle startup incoming.chat
-excerpt: Discussion sur le lancement de produits autour de nous et en entreprise
+summary: Le O-Train d'Ottawa, lancement d'une nouvelle plateforme chez Shopify et le lancement d'une nouvelle startup incoming.chat.
+excerpt: Le O-Train d'Ottawa, lancement d'une nouvelle plateforme chez Shopify et le lancement d'une nouvelle startup incoming.chat.
 ---
 
-Discussion sur le lancement: le O-Train d'Ottawa, lancement d'une nouvelle plateforme chez Shopify et le lancement d'une nouvelle startup incoming.chat
+Discussion sur le lancement: le O-Train d'Ottawa, lancement d'une nouvelle plateforme chez Shopify et le lancement d'une nouvelle startup incoming.chat.
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/4UR4KER1MREXWPQ5bMJjqV" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
