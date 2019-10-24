@@ -31,5 +31,5 @@ Contenu:
 Livres mentionnés:
 
 - Quand la conscience s'éveille, Anthony De Mello
-- 10% Happier Revised Edition: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works, Dan Harris
+- 10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works, Dan Harris
 - INSPIRED: How to Create Tech Products Customers Love, Marty Cagan
