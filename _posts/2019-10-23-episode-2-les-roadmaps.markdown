@@ -31,4 +31,4 @@ Contenu:
 Références mentionnés:
 
 - Inside Bill's Brain: Decoding Bill Gates
-- (RICE: Simple prioritization for product managers)[https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/]
+- [RICE: Simple prioritization for product managers]([)https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/)
