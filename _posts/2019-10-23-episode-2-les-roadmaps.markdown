@@ -7,8 +7,7 @@ podcast_link: https://les-productifs.s3.ca-central-1.amazonaws.com/02-Les-Roadma
 podcast_file_size: 118.1 MB
 podcast_duration: "1:18:04"
 podcast_length: 112424251
-summary: >-
-  Discussion sur le lancement: Le cerveau de Bill, devenir power user de iPad, l'entraînement à la course à pied et les cartes routières
+summary: Le cerveau de Bill, devenir power user de iPad, l'entraînement à la course à pied et les cartes routières
 excerpt: Le cerveau de Bill, devenir power user de iPad, l'entraînement à la course à pied et les cartes routières
 ---
 
