@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Épisode 2 - Les Roadmaps"
+title: "Épisode 2 - Le cerveau de Bill"
 date: 2019-10-23 20:00:00 -0400
 categories: podcast
-podcast_link: https://les-productifs.s3.ca-central-1.amazonaws.com/02-Les-Roadmaps.mp3
+podcast_link: https://les-productifs.s3.ca-central-1.amazonaws.com/episode-2.mp3
 podcast_file_size: 118.1 MB
 podcast_duration: "1:18:04"
 podcast_length: 112424251
@@ -15,7 +15,7 @@ Le cerveau de Bill, devenir power user de iPad, l'entraînement à la course à 
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/1jjAL4TfNuNlFIXsJHmmlh" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Téléchargez le [mp3](https://les-productifs.s3.ca-central-1.amazonaws.com/02-Les-Roadmaps.mp3)
+Téléchargez le [mp3](https://les-productifs.s3.ca-central-1.amazonaws.com/episode-2.mp3)
 
 Contenu:
 

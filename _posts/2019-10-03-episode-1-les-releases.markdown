@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Épisode 1 - Les Releases"
+title: "Épisode 1 - O'Train"
 date: 2019-10-03 15:03:05 -0400
 categories: podcast
-podcast_link: https://les-productifs.s3.ca-central-1.amazonaws.com/01-Les-Releases.mp3
+podcast_link: https://les-productifs.s3.ca-central-1.amazonaws.com/episode-1.mp3
 podcast_file_size: 102.5 MB
 podcast_duration: "1:11:13"
 podcast_length: 102,544,950
@@ -16,7 +16,7 @@ Discussion sur le lancement: le O-Train d'Ottawa, lancement d'une nouvelle plate
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/4UR4KER1MREXWPQ5bMJjqV" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Téléchargez le [mp3](https://les-productifs.s3.ca-central-1.amazonaws.com/01-Les-Releases.mp3)
+Téléchargez le [mp3](https://les-productifs.s3.ca-central-1.amazonaws.com/episode-1.mp3)
 
 Contenu:
 
