@@ -13,7 +13,7 @@ excerpt: Le cerveau de Bill, devenir power user de iPad, l'entraînement à la c
 
 Le cerveau de Bill, devenir power user de iPad, l'entraînement à la course à pied et les cartes routières.
 
-<iframe src="https://open.spotify.com/embed-podcast/show/04hMgFYhG7m9mpNmV6lq4v" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/1jjAL4TfNuNlFIXsJHmmlh" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Téléchargez le [mp3](https://les-productifs.s3.ca-central-1.amazonaws.com/02-Les-Roadmaps.mp3)
 
